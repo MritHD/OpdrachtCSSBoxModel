@@ -1,0 +1,101 @@
+body{ 
+    background-color: rgba(231, 245, 232, 0.959);
+    color: #444;(29, 28, 28, 0.2);
+ }
+
+.omhulsel{
+    width:80%;  
+    margin:20px;    
+}
+
+.titel{
+    background-color:#333;
+    color:rgb(240, 239, 239);
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+
+    border-right:4px rgb(223, 162, 162) solid;
+    border-left:4px  rgb(223, 162, 162) solid;
+    border-top:4px  rgb(223, 162, 162) solid;
+    border-bottom:4px rgb(223, 162, 162) solid;
+    border-width:3px;
+    border-style:solid;
+
+    padding:20px;
+    margin: 0 auto;
+}
+
+.titel nav{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#ffff;
+    text-decoration-style: none;
+    a:
+}
+
+ul#horizontaal{
+    min-width: 696px;
+    list-style: none;
+    padding-top: 20px
+}
+
+ul#horizontaal li{
+    display: inline;
+}
+
+.keuzemenu ul{
+    padding:0;
+    list-style:none;  
+}
+
+.button{
+    color:aliceblue;
+    padding:20px;
+}
+
+.button:hover{
+    color:rgb(207, 127, 127);
+}
+
+.titel .button{
+    text-decoration: none;
+}
+
+.border{
+    background-color:rgb(156, 240, 164);
+    color:#444(240, 239, 239);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    border:3px rgb(153, 42, 42) solid;
+    margin-top:40px;
+
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:50px;
+    padding-left:50px;
+
+    padding:20px 50px;
+}
+
+.inhoud{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border:2px rgb(226, 36, 36) solid;
+    border-width:2px;
+    padding:20px;
+    margin:20px 0;
+    margin-top:20px;
+ }
+
+ .footer{
+    background-color:rgb(156, 240, 164);
+    border:2px crimson solid;
+    color: #444;(29, 28, 28, 0.2);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:50px;
+    padding-left:50px;
+
+    padding:20px 50px;
+ }
